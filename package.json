@@ -1,5 +1,5 @@
 {
-  "name": "noSQL-Social-Network-API",
+  "name": "social-network-api",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/bryance97/noSQL-Social-Network-API#readme",
   "dependencies": {
-    "express": "^4.17.2",
+    "express": "^4.17.1",
     "i": "^0.3.7",
-    "mongoose": "^5.13.14",
-    "nodemon": "^2.0.15"
+    "mongoose": "^5.9.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
   }
 }
